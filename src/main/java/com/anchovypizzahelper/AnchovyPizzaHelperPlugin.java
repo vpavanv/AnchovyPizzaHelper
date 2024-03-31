@@ -51,7 +51,7 @@ public class AnchovyPizzaHelperPlugin extends Plugin
 
 			for(int i = 0; i < playerInventory.length; i++)
 			{
-				if(playerInventory[i].getId() == 11090)
+				if(playerInventory[i].getId() == 2297)
 				{
 					highlightAnchovyPizza = true;
 				}
